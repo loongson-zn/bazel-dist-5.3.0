@@ -124,3 +124,8 @@ constraint_value(
     name = "riscv64",
     constraint_setting = ":cpu",
 )
+
+constraint_value(
+    name = "loongarch64",
+    constraint_setting = ":cpu",
+)

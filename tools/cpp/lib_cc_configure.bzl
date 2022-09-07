@@ -198,10 +198,14 @@ def get_cpu_value(repository_ctx):
         return "ppc"
     if arch in ["s390x"]:
         return "s390x"
+    if arch in ["loongarch64"]:
+        return "loongarch64"
     if arch in ["mips64"]:
         return "mips64"
     if arch in ["riscv64"]:
         return "riscv64"
+    if arch in ["loongarch64"]:
+        return "loongarch64"
     if arch in ["arm", "armv7l"]:
         return "arm"
     if arch in ["aarch64"]:
