@@ -21,10 +21,9 @@ DIST_DEPS = {
     ########################################
     "platforms": {
         "archive": "platforms-0.0.4.tar.gz",
-        "sha256": "079945598e4b6cc075846f7fd6a9d0857c33a7afc0de868c2ccb96405225135d",
+        "sha256": "0648cbc4a010e3c15dce8901f01ffcba197288e2af388360435a50ca65004b99",
         "urls": [
-            "https://mirror.bazel.build/github.com/bazelbuild/platforms/releases/download/0.0.4/platforms-0.0.4.tar.gz",
-            "https://github.com/bazelbuild/platforms/releases/download/0.0.4/platforms-0.0.4.tar.gz",
+	    "file:///home/zn/zhangna-github/test/test/platforms/platforms-0.0.4.tar.gz",
         ],
         "used_in": [
             "additional_distfiles",
