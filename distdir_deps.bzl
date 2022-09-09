@@ -21,7 +21,7 @@ DIST_DEPS = {
     ########################################
     "platforms": {
         "archive": "platforms-0.0.4.tar.gz",
-        "sha256": "0648cbc4a010e3c15dce8901f01ffcba197288e2af388360435a50ca65004b99",
+        "sha256": "2294df9fe60093744efd89cc582a11243daa86844c631818828a88521d6f6d72",
         "urls": [
 	    "file:///home/zn/zhangna-github/test/test/platforms/platforms-0.0.4.tar.gz",
         ],
